@@ -8,3 +8,9 @@
  # MUSUEM 
  ### Rajiv Gandhi International Airport.
  ###### To travel from Airport to musuem , First we have to walk for  14 min to bustop and take a (90L/251) Bus and take a ticket for Keshavagiri and then walk for 3 min to Chandrayangutta X road and take a (8C) Bus and take a ticket to Salarjung Museum.The overall travel time will be 1 hr 53 min . You can also book a cab directly from aiport to museum.
+
+ * Mecca Masjid 
+ * Charminar
+ * Nizam's Museum
+ * Sudha Cars Museum
+ 
