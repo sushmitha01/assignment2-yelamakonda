@@ -42,12 +42,11 @@ ____________________________________________________________________
 
 [Click here to find more information.](https://stackoverflow.com/questions/4784745/how-can-i-measure-the-execution-time-of-a-script)
 
-``` $execution_time = microtime(); // Start counting
-
-// Your code
-
+``` 
+$execution_time = microtime(); // Start counting
 $execution_time = microtime() - $execution_time;
-printf('It took %.5f sec', $execution_time);   ```
+printf('It took %.5f sec', $execution_time);  
+ ```
 
 
 [Click here to view the source](https://css-tricks.com/snippets/php/count-script-excecution-time/)
