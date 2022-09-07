@@ -31,8 +31,9 @@ ___________________________________________________________
 _________________________________________________________________
 # Pithy Quotes 
 
-> "The road to success and the road to failure are almost exactly the same." * Colin R. Davis
-> “Don’t let yesterday take up too much of today.”  *  Will Rogers.
+>   "The road to success and the road to failure are almost exactly the same." _Colin R. Davis
+
+>   “Don’t let yesterday take up too much of today.”  _Will Rogers.
 
 
 
