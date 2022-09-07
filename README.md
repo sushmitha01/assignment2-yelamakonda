@@ -13,3 +13,6 @@
  * Charminar
  * Nizam's Museum
  * Sudha Cars Museum
+
+<sush.jpg>
+
