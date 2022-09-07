@@ -28,6 +28,12 @@ ___________________________________________________________
 | 3   |   Hyderabad   |  Charminar   |   5 hrs   |
 | 4   |    Vizag      |   RK Beach   |   4 hrs   |
 
+_________________________________________________________________
+# Pithy Quotes 
+
+> "The road to success and the road to failure are almost exactly the same." * Colin R. Davis
+> “Don’t let yesterday take up too much of today.”  *  Will Rogers.
+
 
 
 
