@@ -15,4 +15,5 @@
  * Sudha Cars Museum
 
 <sush.jpg>
+[My picture](sush.jpg)
 
