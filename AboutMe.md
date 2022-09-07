@@ -12,7 +12,7 @@ ____________________________________________________________
     # Favourite Cities 
 
  
-|#S.NO|  #City      |
+| S.NO|  City      |
 |----|--------------:|
 | 1  |   Banglore    |
 | 2  |    Delhi      |
@@ -21,7 +21,7 @@ ____________________________________________________________
 
   Above 4 are the cities which i found interesting , each city has different in culture, food, weather.
 
-|#S.NO|    #City     |  #Location   |    #Time  |
+|S.NO|     City     |  Location   |    Time  |
 |-----|--------------:|-------------:|----------:|
 | 1   |   Banglore    | sultan palace|   4 hrs   |
 | 2   |    Agra       |  Taj Mahal   |   6 hrs   |
