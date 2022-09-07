@@ -8,8 +8,8 @@
   [Click here to view the image](/sush.jpg)
 
 
-____________________________________________________________
-    # Favourite Cities 
+___________________________________________________________
+# Favourite Cities 
 
  
 | S.NO|  City      |
