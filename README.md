@@ -14,6 +14,6 @@
  * Nizam's Museum
  * Sudha Cars Museum
 
-<sush.jpg>
-[My picture](sush.jpg)
+
+[AboutMe markdown file](/AboutMe.md)
 
